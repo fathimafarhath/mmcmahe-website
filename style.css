@@ -63,7 +63,7 @@ body{
 
 
 .home{
-    background-image: url('images/banner1.jpg');
+    background-image: url('images/banner2');
     /* background-color: aqua; */
     /* background: linear-gradient(rgba(0,0,0,0.2)),url('images/banner1.jpg')no-repeat; */
     background-size: 100% 100%;
@@ -140,7 +140,7 @@ section#appointment-section {
     height: 100%;
     right: 0;
     top: 0;
-    background: url("images/banner1.jpg") center center;
+    background: url("images/img2.jfif") center center;
     /* background: url('../upload/ban2.jpg') center center; */
     background-size: cover;
     -webkit-background-size: cover;
